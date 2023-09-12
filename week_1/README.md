@@ -1,4 +1,4 @@
-# Polkadot Rust Bootcamp - HW 1
+# Polkadot Rust Bootcamp - Week 1
 
 ### Task Details
 
